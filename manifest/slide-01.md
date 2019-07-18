@@ -1,6 +1,9 @@
 ## Quem sou eu
 
-[Ricardo Kovalski Cruz](https://github.com/ricardokovalski/Resume/blob/master/pt-br.md#um-pouco-sobre-min)
+Sou [Ricardo Kovalski Cruz](https://github.com/ricardokovalski/Resume/blob/master/pt-br.md#um-pouco-sobre-min).  
+Desenvolvedor à 5 anos.  
+Estudante de Ciência da Computação.  
+
 
 ## Onde me encontrar
   
