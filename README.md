@@ -3,7 +3,7 @@
 ## Sumário
 
 * [Quem sou eu](/manifest/slide-01.md#quem-sou-eu)
-* [O que é refatoração?](/manifest/slide-02.md#o-que--refatorao)
+* [Refactoring](/manifest/slide-02.md#refactoring)
 * [Clean Code](/manifest/slide-03.md#clean-code)
 * [SOLID](/manifest/slide-04.md#solid)
 
