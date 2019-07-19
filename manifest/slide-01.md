@@ -1,6 +1,6 @@
 ## Ricardo Kovalski Cruz
 
-* [Resumo](https://github.com/ricardokovalski/Resume/blob/master/pt-br.md#um-pouco-sobre-min)  
+:fast_forward: [github.com/ricardokovalski/Resume](https://github.com/ricardokovalski/Resume)
 
 ## Onde me encontrar
   
