@@ -7,10 +7,6 @@
 * [Clean Code](/manifest/slide-03.md#clean-code)
 * [SOLID](/manifest/slide-04.md#solid)
 
- 
-
-## Object Calisthenics
-
 ### Referências
 
 * [Clean Code: O que é e por que usar?](https://medium.com/joaorobertopb/1-clean-code-o-que-%C3%A9-porque-usar-1e4f9f4454c6)
