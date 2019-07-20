@@ -10,4 +10,4 @@ SOLID representa os cinco princípios da orientação à objetos. E esses princ�
 
 > “SOLID não é um processo, mas sim um objetivo de um processo extenso e ousado que exige muitos conceitos de orientação à objetos, envolve ter uma certa experiência em abstração e exige um time maduro.”
 
-:arrow_backward: [Início](/slide-03.md) | [Próximo](/slide-05.md) :arrow_forward:
+[Clean Code](/manifest/slide-03.md#clean-code) | [Object Calisthenics](/manifest/slide-05.md#object-calisthenics)

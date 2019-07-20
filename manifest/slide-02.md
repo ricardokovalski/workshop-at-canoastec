@@ -9,4 +9,4 @@
 * Encontrar bugs.
 * Programar mais rápido.
 
-:arrow_backward: [Anterior](/slide-01.md) | [Próximo](/slide-03.md) :arrow_forward:
+[Refactoring](/manifest/slide-01.md#ricardo-kovalski-cruz) | [Clean Code](/manifest/slide-03.md#clean-code)
