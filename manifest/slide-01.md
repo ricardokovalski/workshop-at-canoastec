@@ -9,4 +9,4 @@
 ![:](https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-20.png) [linkedin.com/in/ricardo-kovalski-cruz](https://www.linkedin.com/in/ricardo-kovalski-cruz/)  
 :email: [ricardokovalskicruz@gmail.com](mailto:ricardokovalskicruz@gmail.com)
 
-[README](/README.md) | [Refactoring](/manifest/slide-02.md#refactoring)
+[README](/README.md#refactoring-to-object-calisthenics) | [Refactoring](/manifest/slide-02.md#refactoring)
