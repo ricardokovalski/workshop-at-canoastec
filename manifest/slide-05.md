@@ -6,6 +6,15 @@ O Object Calisthenics é uma série de nove regras criadas por Jeff Bay (comunid
 
 > :warning: Não se enganem, pois algumas regras são bem difíceis e em alguns casos, uma regra depente de outra. Por isso, invista tempo em cada uma das regras e aplique-as com cautela.
 
+## Por que Object Calisthenics
+
+* Aplicação dos princípios do SOLID.
+* Aumento na qualidade do código.
+* Manutenibilidade.
+* Legibilidade.
+* Testabilidade.
+* Compreensão do código.
+
 * [Regra 1: Apenas um nível de identação por método]()
 * [Regra 2: Não use Else]()
 * [Regra 3: Envolva seus tipos primitivos]()
