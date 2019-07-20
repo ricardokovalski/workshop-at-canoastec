@@ -8,3 +8,5 @@
 * Código mais entendível.
 * Encontrar bugs.
 * Programar mais rápido.
+
+:arrow_backward: [Anterior](/slide-01.md) | [Próximo](/slide-03.md) :arrow_forward:
