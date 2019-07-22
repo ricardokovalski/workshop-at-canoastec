@@ -1,4 +1,4 @@
-## Não use o Else
+# regra 2: Não use o Else
 
 Primeiro que não serve para nada. E segundo você não precisa e também nunca precisou.
 

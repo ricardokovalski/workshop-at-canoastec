@@ -1,4 +1,4 @@
-## Envolva seus tipos primitivos
+# Regra 3: Envolva seus tipos primitivos
 
 Tudo que for do tipo primitivo, ou seja, **int**, **float**, **boolean** e **string** deve ser encapsulado dentro do objeto. Seguindo este contexto, estaremos prevenindo o **Primitive Obsession**.
 

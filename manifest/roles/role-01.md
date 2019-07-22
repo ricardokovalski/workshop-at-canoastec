@@ -1,4 +1,4 @@
-## Regra 1: Apenas um nível de identação por método
+# Regra 1: Apenas um nível de identação por método
 
 Cada método deve realizar uma única ação. Deste modo, estaremos facilitando a leitura e a manutenção do código, promovendo o SRP e evitando o efeito Hadouken.
 
