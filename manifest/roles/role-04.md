@@ -50,7 +50,7 @@ Vejamos um outro exemplo.
 ```php
 <?php
 
-foreach ($order as $order) {
+foreach ($orders as $order) {
     if ($order->isPendent()) {
         $this->sendNotification($order);
     }
@@ -68,7 +68,5 @@ $ordersPendent = $ordersCollection->filterOrdersStatusPendent();
 
 $ordersPendent->sendNotification();
 ```
-
-### Depois
 
 [Regra 3](/manifest/roles/role-03.md) | [Regra 5](/manifest/roles/role-05.md)
