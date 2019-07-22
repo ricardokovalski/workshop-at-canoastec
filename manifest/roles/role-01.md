@@ -2,7 +2,7 @@
 
 Cada método deve realizar uma única ação. Deste modo, estaremos facilitando a leitura e a manutenção do código, promovendo o SRP e evitando o efeito Hadouken.
 
-Gantanta um único nível de identação extraindo os comportamentos para outros métodos. Usando essa abordagem, estamos aplicando o **Extract Method Pattern**.
+Garanta um único nível de identação extraindo os comportamentos para outros métodos. Usando essa abordagem, estamos aplicando o **Extract Method Pattern**.
 
 ## Exemplo 1
 
@@ -44,15 +44,18 @@ public function show($slug)
 {
     $lesson = $this->repository->findBySlug($slug);
     
-    if ($lesson) {
-        $this->addThumbToImages($lesson->thumb_url);
-        $trackTitle = ! $lesson->track ? '' : '['.$lesson->track->title.']';
-        $this->seo()->setTitle($lesson->title . $trackTitle);
-        $this->seo()->setDescription($lesson->description);
-        return $this->view('lessons::show')->with(compact('lesson'));
+    if (! $lesson) {
+        return redirect(route('lesson.index'));      
     }
     
-    return redirect(route('lesson.index'));
+    $this->addThumbToImages($lesson->thumb_url);
+    
+    $trackTitle = $lesson->track ? "[{$lesson->track->title}]" : "";
+    
+    $this->seo()->setTitle($lesson->title . $trackTitle);
+    $this->seo()->setDescription($lesson->description);
+    
+    return $this->view('lessons::show')->with(compact('lesson'));    
 }
 
 protected function addThumbToImages($thumbURL)
