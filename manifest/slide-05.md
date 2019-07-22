@@ -17,14 +17,14 @@ O Object Calisthenics é uma série de nove regras criadas por Jeff Bay (comunid
 
 ## As Regras
 
-* [Regra 1: Apenas um nível de identação por método]()
-* [Regra 2: Não use Else]()
-* [Regra 3: Envolva seus tipos primitivos]()
-* [Regra 4: Envolva suas collections em classes]()
-* [Regra 5: Use apenas um ponto por linha]()
-* [Regra 6: Não abrevie]()
-* [Regra 7: Mantenha todas as suas classes pequenas]()
-* [Regra 8: Não tenha mais que duas variáveis de instância em sua classe]()
-* [Regra 9: Não use Getters ou Setters]()
+* [Regra 1: Apenas um nível de identação por método](/manifest/roles/role-01.md)
+* [Regra 2: Não use Else](/manifest/roles/role-02.md)
+* [Regra 3: Envolva seus tipos primitivos](/manifest/roles/role-03.md)
+* [Regra 4: Envolva suas collections em classes](/manifest/roles/role-04.md)
+* [Regra 5: Use apenas um ponto por linha](/manifest/roles/role-05.md)
+* [Regra 6: Não abrevie](/manifest/roles/role-06.md)
+* [Regra 7: Mantenha todas as suas classes pequenas](/manifest/roles/role-07.md)
+* [Regra 8: Não tenha mais que duas variáveis de instância em sua classe](/manifest/roles/role-08.md)
+* [Regra 9: Não use Getters ou Setters](/manifest/roles/role-09.md)
 
 [SOLID](/manifest/slide-04.md#solid) | [Próximo](/slide-06.md)
