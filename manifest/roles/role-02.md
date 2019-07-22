@@ -69,3 +69,5 @@ foreach ($members as $member) {
     $report[] = [$member->name => 'Not Paid'];
 }
 ```
+
+[Regra 1](/manifest/roles/role-01.md) | [Regra 3](/manifest/roles/role-03.md)
