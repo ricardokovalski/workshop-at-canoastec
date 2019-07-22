@@ -1,4 +1,4 @@
-## Ricardo Kovalski Cruz
+# Ricardo Kovalski Cruz
 
 :fast_forward: [github.com/ricardokovalski/Resume](https://github.com/ricardokovalski/Resume)
 

@@ -1,4 +1,4 @@
-## SOLID
+# SOLID
 
 SOLID representa os cinco princípios da orientação à objetos. E esses princípios ajudam o programador a escreve __códigos mais limpos__ separando as responsabilidades, diminuindo acoplamentos, facilitando na refatoração e estimulando o reaproveitamento de código.
 
