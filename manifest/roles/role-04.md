@@ -1,4 +1,4 @@
-# Envolva suas collections em classes
+# Regra 4 - Envolva suas collections em classes
 
 Dado que temos um conjunto de registros e caso necessitamos manipular o mesmo, entende-se que é importante criar uma classe dedicada apenas para este conjunto.  
 

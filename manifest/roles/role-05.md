@@ -1,4 +1,4 @@
-# Use apenas um ponto por linha
+# Regra 5 - Use apenas um ponto por linha
 
 O ponto nada mais é que a famosa setinha **->** do PHP.
 

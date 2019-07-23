@@ -1,6 +1,7 @@
-# regra 2: Não use o Else
+# Regra 2: Não use o Else
 
-Primeiro que não serve para nada. E segundo você não precisa e também nunca precisou.
+* Não serve para nada. 
+* Você não precisa e também nunca precisou.
 
 Esta regra emprega o conceito **early return**, ou seja, retorne o seu valor o quanto antes.
 
