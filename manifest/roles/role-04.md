@@ -57,6 +57,10 @@ foreach ($orders as $order) {
 }
 ```
 
+Neste segundo exemplo, vamos fazer um disparo de notificação para aqueles pedidos que estão com o status pendente. 
+
+A variável $orders é um array e para que seja feito este disparo de notificação, precisamos iterá-la com um foreach e verificar internamente se o status do pedido é pendente.
+
 ### Depois
 
 ```php

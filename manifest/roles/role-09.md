@@ -75,4 +75,4 @@ class Account
     }
 }
 ```
-[Regra 8](/manifest/roles/role-08.md) | [The End](/manifest/slide-06.md#the-end)
+[Regra 8](/manifest/roles/role-08.md) | [Object Calisthenics](/manifest/slide-05.md#as-regras)

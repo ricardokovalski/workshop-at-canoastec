@@ -27,4 +27,4 @@ O Object Calisthenics é uma série de nove regras criadas por Jeff Bay (comunid
 * [Regra 8: Não tenha mais que duas variáveis de instância em sua classe](/manifest/roles/role-08.md)
 * [Regra 9: Não use Getters ou Setters](/manifest/roles/role-09.md)
 
-[SOLID](/manifest/slide-04.md#solid) | [Próximo](/slide-06.md)
+[SOLID](/manifest/slide-04.md#solid) | [Início](/README.md)
