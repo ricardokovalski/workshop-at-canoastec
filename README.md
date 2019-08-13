@@ -1,4 +1,6 @@
-# Refactoring To Object Calisthenics
+# :scroll: Workshop Refactoring To Object Calisthenics
+
+Apresentado na empresa Canoastec em 24/07/19. 
 
 ### Sumário
 
